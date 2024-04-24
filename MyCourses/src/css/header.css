@@ -1,0 +1,13 @@
+.header{
+    margin-bottom: 50px;
+    width: 100%;
+    height: 80px;
+    background-color: #eaf8ca;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px 15px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #22105e;
+}
